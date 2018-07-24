@@ -4,7 +4,7 @@ second_word = "friends"
 
 
 def crazy_strings(word, second_word)
-puts word.upcase.reverse
+puts = second_word.upcase.reverse
 puts "friends".gsub("s","z") .swapcase
 end
 
